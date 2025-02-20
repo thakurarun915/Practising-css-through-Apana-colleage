@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2{
+    text-align: center;
+    text-decoration: line-through;
+}
+a{ 
+    display: block;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+
+
+/* none: kuch be nhi it will removse underline from a tags */
