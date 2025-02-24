@@ -1,0 +1,19 @@
+#One{
+
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+/* 
+*{
+    font-family: The 'Times New Roman', Times, serif;
+} */
+
+#Outer{
+    font-size: 25px;
+}
+
+#ineer {
+    font-size: 10px;
+}
