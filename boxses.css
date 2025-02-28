@@ -1,0 +1,16 @@
+div{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+
+#box{
+    background-color: rgba(0,0,255,0.5);
+}
+
+
+#box{
+    background-color: rgba(0,0,255,0.5);
+}

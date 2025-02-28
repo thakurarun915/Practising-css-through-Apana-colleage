@@ -1,0 +1,15 @@
+div{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+
+#box2{
+   visibility: hidden;
+}
+
+/* #box3{
+   visibility: hidden;;
+} */
