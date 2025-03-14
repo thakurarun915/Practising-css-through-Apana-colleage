@@ -1,16 +1,27 @@
+
+
+body{
+    text-align: center;
+}
+
 div{
+
+    
     height: 100px;
-    width: 100px;
+    width: 150px;
     display: inline-block;
     border: 2px solid black;
 }
 
 #container{
-    width: 800px;
-    height: 200px;
+    width: 600px;
+    height: 600px;
     display: flex;
     flex-direction : row;
-    justify-content: space-between;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: flex-start;
 
     /* justify-content: center; */
 
@@ -23,14 +34,18 @@ div{
 
 #box2{
     background-color: red;
+    height: 200px;
 }
 
 #box3{
     background-color: brown;
+    height: 75px;
 }
 #box4{
     background-color: aliceblue;
+    height: 200px;
 }
 #box5{
     background-color: forestgreen
 }
+
